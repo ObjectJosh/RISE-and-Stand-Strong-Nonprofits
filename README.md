@@ -5,5 +5,5 @@ Hack4Impact nonprofit project for two nonprofits, RISE and Stand Strong. The sou
 
 Nonprofits:
 -----------
-RISE: https://www.riseslo.org/ \n
+RISE: https://www.riseslo.org/
 Stand Strong: https://standstrongnow.org/
