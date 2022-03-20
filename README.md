@@ -2,7 +2,7 @@
 Description:
 -----------
 Hack4Impact nonprofit project for two nonprofits, RISE and Stand Strong. <br />
-The source code of this project is private, but if interested in learning more about this project, feel free to contact me.
+The source code of this project is located here: https://github.com/hack4impact-calpoly/rise-stand-strong
 
 Nonprofits:
 -----------
