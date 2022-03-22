@@ -9,5 +9,5 @@ Nonprofits:
 RISE: https://www.riseslo.org/ <br />
 Stand Strong: https://standstrongnow.org/
 
-Status: In Progress
+Status: Complete
 -------
